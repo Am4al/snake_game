@@ -1,5 +1,7 @@
 # Snake Game
 
+![snake_game](https://github.com/user-attachments/assets/c529c161-3374-4834-ad48-28d200a5f3fb)
+
 ## Overview
 The **Snake Game** is a classic arcade game implemented in Python. This project features a graphical user interface (GUI) where players control a snake to eat food, grow in size, and score points. The game ends when the snake collides with itself or the boundaries of the game area.
 
